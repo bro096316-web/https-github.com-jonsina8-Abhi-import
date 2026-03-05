@@ -35,20 +35,8 @@ Deendayal dhakad Imported => channel
 Deendayal dhakad Imported => Verification
 Deendayal dhakad Imported => gfilters
 Deendayal dhakad Imported => __init__
-08:04:53 AM - 74 - root - bot - INFO - Since primary DB have enough space (175.98MB) left, It will be used for storing datas.
-08:04:53 AM - 83 - root - bot - INFO - MCU_MAMMOOTTY_V1_BOT with Pyrogram v2.3.45 (Layer 187) started on MCUI_MAMMOOTTY_V1_BOT.
-08:04:53 AM - 84 - root - bot - INFO - Current Customized Configurations are:-
-IMDB Results are disabled.
-P_TTI_SHOW_OFF is disabled, files will be sent in PM instead of starting the bot.
-SINGLE_BUTTON is disabled, filename and file size will be shown as different buttons.
-CUSTOM_FILE_CAPTION enabled with value <b><a href="https://t.me/Hindi_movie_uplod">{file_name}</a></b>
 
-<b>⚜️ Powered By : <a https://t.me/Hindi_movie_uplod>[abhishek]</a></b>, your files will be sent along with this customized caption.
-LONG_IMDB_DESCRIPTION is disabled, Plot will be shorter.
-Spell Check Mode is enabled, bot will be suggesting related movies if movie name is misspelled.
-
-08:04:53 AM - 85 - root - bot - INFO - 
-                                                   
+                                                 
 𝙱𝙾𝚃 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈....
 Instance is healthy. All health checks are passing.)](https://t.me/Deendayal_Support_Group)
 
