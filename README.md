@@ -48,13 +48,7 @@ LONG_IMDB_DESCRIPTION is disabled, Plot will be shorter.
 Spell Check Mode is enabled, bot will be suggesting related movies if movie name is misspelled.
 
 08:04:53 AM - 85 - root - bot - INFO - 
-╭━━━┳━━━┳━━━┳━━━┳━╮╭━┳━━━┳━━┳━╮╱╭┳━━━┳━━━━┳━━━┳━╮╱╭┳━━━╮
-╰╮╭╮┃╭━╮┃╭━━┫╭━╮┃┃╰╯┃┃╭━╮┣┫┣┫┃╰╮┃┃╭━━┻━━╮━┃╭━╮┃┃╰╮┃┃╭━━╯
-╱┃┃┃┃╰━╯┃╰━━┫┃╱┃┃╭╮╭╮┃┃╱╰╯┃┃┃╭╮╰╯┃╰━━╮╱╭╯╭┫┃╱┃┃╭╮╰╯┃╰━━╮
-╱┃┃┃┃╭╮╭┫╭━━┫╰━╯┃┃┃┃┃┃┃╱╭╮┃┃┃┃╰╮┃┃╭━━╯╭╯╭╯┃┃╱┃┃┃╰╮┃┃╭━━╯
-╭╯╰╯┃┃┃╰┫╰━━┫╭━╮┃┃┃┃┃┃╰━╯┣┫┣┫┃╱┃┃┃╰━━┳╯━╰━┫╰━╯┃┃╱┃┃┃╰━━╮
-╰━━━┻╯╰━┻━━━┻╯╱╰┻╯╰╯╰┻━━━┻━━┻╯╱╰━┻━━━┻━━━━┻━━━┻╯╱╰━┻━━━╯
-                                                                                                                        
+                                                   
 𝙱𝙾𝚃 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈....
 Instance is healthy. All health checks are passing.)](https://t.me/Deendayal_Support_Group)
 
