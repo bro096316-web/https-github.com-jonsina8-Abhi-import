@@ -5,7 +5,58 @@
 <!-- > ## ⚠ <u>Under Maintenance</u> ⚠  
 > This repository is currently under maintenance. Please **DO NOT deploy** until further notice. -->
 
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/Deendayal_Support_Group)
+* [![Contact Developer](Instance created. Preparing to start...
+Starting download for registry01.prod.koyeb.com/k-e847266f-0da9-4123-be1a-6f0f6145c342/c48bc10f-0430-46cf-adf1-e9f9f13ab4e8:c2f15a70-807d-42ea-affd-77f967debbb9
+Download progress:  62% |[32m++++[0m----| (18.2 MiB/s)
+Download progress:  62% |[32m++++[0m----| (7.3 MiB/s)
+Download complete for registry01.prod.koyeb.com/k-e847266f-0da9-4123-be1a-6f0f6145c342/c48bc10f-0430-46cf-adf1-e9f9f13ab4e8:c2f15a70-807d-42ea-affd-77f967debbb9
+Instance is starting... Waiting for health checks to pass.
+
+
+
+Initalizing Deendayal_Botz
+No additional clients found, using default client
+Deendayal dhakad Imported => broadcast
+Deendayal dhakad Imported => pmfilter
+Deendayal dhakad Imported => join_req
+Deendayal dhakad Imported => banned
+Deendayal dhakad Imported => Premium
+Deendayal dhakad Imported => misc
+Deendayal dhakad Imported => route
+Deendayal dhakad Imported => filters
+Deendayal dhakad Imported => files_delete
+Deendayal dhakad Imported => p_ttishow
+Deendayal dhakad Imported => connection
+Deendayal dhakad Imported => inline
+Deendayal dhakad Imported => index
+Deendayal dhakad Imported => genlink
+Deendayal dhakad Imported => commands
+Deendayal dhakad Imported => channel
+Deendayal dhakad Imported => Verification
+Deendayal dhakad Imported => gfilters
+Deendayal dhakad Imported => __init__
+08:04:53 AM - 74 - root - bot - INFO - Since primary DB have enough space (175.98MB) left, It will be used for storing datas.
+08:04:53 AM - 83 - root - bot - INFO - MCU_MAMMOOTTY_V1_BOT with Pyrogram v2.3.45 (Layer 187) started on MCUI_MAMMOOTTY_V1_BOT.
+08:04:53 AM - 84 - root - bot - INFO - Current Customized Configurations are:-
+IMDB Results are disabled.
+P_TTI_SHOW_OFF is disabled, files will be sent in PM instead of starting the bot.
+SINGLE_BUTTON is disabled, filename and file size will be shown as different buttons.
+CUSTOM_FILE_CAPTION enabled with value <b><a href="https://t.me/Hindi_movie_uplod">{file_name}</a></b>
+
+<b>⚜️ Powered By : <a https://t.me/Hindi_movie_uplod>[abhishek]</a></b>, your files will be sent along with this customized caption.
+LONG_IMDB_DESCRIPTION is disabled, Plot will be shorter.
+Spell Check Mode is enabled, bot will be suggesting related movies if movie name is misspelled.
+
+08:04:53 AM - 85 - root - bot - INFO - 
+╭━━━┳━━━┳━━━┳━━━┳━╮╭━┳━━━┳━━┳━╮╱╭┳━━━┳━━━━┳━━━┳━╮╱╭┳━━━╮
+╰╮╭╮┃╭━╮┃╭━━┫╭━╮┃┃╰╯┃┃╭━╮┣┫┣┫┃╰╮┃┃╭━━┻━━╮━┃╭━╮┃┃╰╮┃┃╭━━╯
+╱┃┃┃┃╰━╯┃╰━━┫┃╱┃┃╭╮╭╮┃┃╱╰╯┃┃┃╭╮╰╯┃╰━━╮╱╭╯╭┫┃╱┃┃╭╮╰╯┃╰━━╮
+╱┃┃┃┃╭╮╭┫╭━━┫╰━╯┃┃┃┃┃┃┃╱╭╮┃┃┃┃╰╮┃┃╭━━╯╭╯╭╯┃┃╱┃┃┃╰╮┃┃╭━━╯
+╭╯╰╯┃┃┃╰┫╰━━┫╭━╮┃┃┃┃┃┃╰━╯┣┫┣┫┃╱┃┃┃╰━━┳╯━╰━┫╰━╯┃┃╱┃┃┃╰━━╮
+╰━━━┻╯╰━┻━━━┻╯╱╰┻╯╰╯╰┻━━━┻━━┻╯╱╰━┻━━━┻━━━━┻━━━┻╯╱╰━┻━━━╯
+                                                                                                                        
+𝙱𝙾𝚃 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈....
+Instance is healthy. All health checks are passing.)](https://t.me/Deendayal_Support_Group)
 
 First Check our **Demo** bot -
 
