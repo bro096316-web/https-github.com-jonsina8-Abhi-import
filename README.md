@@ -6,7 +6,7 @@
 > This repository is currently under maintenance. Please **DO NOT deploy** until further notice. -->
 
 * [![Contact Developer](Instance created. Preparing to start...
-Starting download for registry01.prod.koyeb.com/k-e847266f-0da9-4123-be1a-6f0f6145c342/c48bc10f-0430-46cf-adf1-e9f9f13ab4e8:c2f15a70-807d-42ea-affd-77f967debbb9
+Starting download for https://files.catbox.moe/0q9we7.jpg67debbb9
 Download progress:  62% |[32m++++[0m----| (18.2 MiB/s)
 Download progress:  62% |[32m++++[0m----| (7.3 MiB/s)
 Download complete for registry01.prod.koyeb.com/k-e847266f-0da9-4123-be1a-6f0f6145c342/c48bc10f-0430-46cf-adf1-e9f9f13ab4e8:c2f15a70-807d-42ea-affd-77f967debbb9
